@@ -1,7 +1,17 @@
 #Welcome to my github!
 
-here should be an "interesting" text, thats still a wip.
-![description of image](http://medien.budopedia.de/images/3/39/04_2_Tiere_DracheSW1.png)
+My name is **Onur**, living in **Hamburg**  I am **30** years old and trying to learn how to code.
+![Long](http://medien.budopedia.de/images/3/39/04_2_Tiere_DracheSW1.png)
+
+Fav.foods:
+- Hummus
+- Pizza 🍕
+- Falafel 🌯
+- Kisir
+
+
+(This File is still a WIP)
+
 
 
 
