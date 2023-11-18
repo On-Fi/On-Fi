@@ -1,21 +1,41 @@
 ---
-# Welcome to my github!
+# Onur is my Name, and WEB DEV is the Game. <br> I like to level up at least regularly. <br> Let's go for a few Quests together!
 ---
-My name is **Onur**, living in **Hamburg**  I am **30** years old and trying to learn how to code.
-that is my spirit animal:
-![Long](http://medien.budopedia.de/images/3/39/04_2_Tiere_DracheSW1.png)
+born and raised in **Hamburg, Germany**, <br>
+I like to travel around the Globe and meet new people in the techworld. <br> 
+I'm easy going and like to joke around, <br> 
+but reliable and professional when it comes to deadlines.
 
 ---
-## Fav.foods:
-- Kiwi 🥝
-- Pizza 🍕
-- Falafel 🌯
-- Sushi 🍣
-- Chocolate 🍫
-- French Fries 🍟
+## My Techstack (for now):
++ **Html**
++ **CSS (Tailwind)**
++ **JavaScript (React)**
++ **TypeScript**
++ (basic understanding in) **Python**
++ (basic understanding in) **GDScript**
 ---
 
-### (This Readme is still a WIP)
+## I'm trilingual (for now):
++ **German**
++ **English**
++ **Turkish**
++ **Spanish** (In the learning phase)
++ **Itailan** (In the learning phase) 
+
+**Funfact:**
+_Onur means **Honor** in turkish, and it's an honor for me that you found your way to my Github._ :)
+
+---
+I'm a good addition to every team (especially a WEB DEV team), <br> 
+dont believe me? <br>
+**Let me prove it to you!** <br>
+How you may ask? <br>
+**That's a very good Question!** <br>
+Either I show you my skills in a internship, <br> 
+or you fall in love with my portfolio and hire me right away. <br>
+**It´s your choise my future friend.** <br>
+
 
 
 
