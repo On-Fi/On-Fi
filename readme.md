@@ -11,7 +11,7 @@ but reliable and professional when it comes to deadlines.
 + **Html**
 + **CSS (Tailwind)**
 + **JavaScript (React)**
-+ **TypeScript**
++ (basic understanding in) **TypeScript**
 + (basic understanding in) **Python**
 + (basic understanding in) **GDScript**
 ---
