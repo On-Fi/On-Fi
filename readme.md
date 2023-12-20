@@ -9,8 +9,8 @@ but reliable and professional when it comes to deadlines.
 ---
 ## My Techstack (for now):
 + **Html**
-+ **CSS (Tailwind)**
-+ **JavaScript (React)**
++ **CSS (styled components)**
++ **JavaScript (React/Next.js)**
 + (basic understanding in) **TypeScript**
 + (basic understanding in) **Python**
 + (basic understanding in) **GDScript**
