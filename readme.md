@@ -2,7 +2,7 @@
 # Onur is my Name, and WEB DEV is the Game. <br> I like to level up at least regularly. <br> Let's go for a few Quests together!
 ---
 born and raised in **Hamburg, Germany**, <br>
-I like to travel around the Globe and meet new people in the techworld. <br> 
+I like to travel around the Globe and meet new people in the Techworld. <br> 
 I'm easy going and like to joke around, <br> 
 but reliable and professional when it comes to deadlines.
 ---
