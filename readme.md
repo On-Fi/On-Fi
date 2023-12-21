@@ -4,7 +4,7 @@
 born and raised in **Hamburg, Germany**, <br>
 I like to travel around the Globe and meet new people in the Techworld. <br> 
 I'm easy going and like to joke around with punchlines, <br> 
-**but** 
+**but** <br>
 I'm reliable and professional when it comes to deadlines.
 ---
 
