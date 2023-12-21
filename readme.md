@@ -5,23 +5,18 @@ born and raised in **Hamburg, Germany**, <br>
 I like to travel around the Globe and meet new people in the techworld. <br> 
 I'm easy going and like to joke around, <br> 
 but reliable and professional when it comes to deadlines.
-
 ---
+
 ## My Techstack (for now):
 + **Html**
 + **CSS (styled components)**
 + **JavaScript (React/Next.js)**
-+ (basic understanding in) **TypeScript**
-+ (basic understanding in) **Python**
-+ (basic understanding in) **GDScript**
 ---
 
 ## I'm trilingual (for now):
 + **German**
 + **English**
 + **Turkish**
-+ **Spanish** (In the learning phase)
-+ **Itailan** (In the learning phase) 
 
 **Funfact:**
 _Onur means **Honor** in turkish, and it's an honor for me that you found your way to my Github._ :)
