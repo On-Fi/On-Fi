@@ -1,5 +1,5 @@
 ---
-# Onur is my Name, and WEB DEV is the Game!
+# ONUR is my Name, and WEB DEV is the Game!
 ---
 born and raised in **Hamburg, Germany**, <br>
 I like to travel around the Globe and meet new people in the Techworld. <br> 
