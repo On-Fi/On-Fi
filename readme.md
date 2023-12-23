@@ -23,9 +23,4 @@ I'm reliable and professional when it comes to deadlines.
 _Onur means **Honor** in turkish, and it's an honor for me that you found your way to my Github._ :)
 
 ---
-
-
-
-
-
-
+ <img src="https://github-readme-stats.vercel.app/api?username=onur-fistikci&show_icons=true&theme=tokyonight" alt="GitHub stats">
