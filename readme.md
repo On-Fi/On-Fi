@@ -24,6 +24,6 @@ _Onur means **Honor** in turkish, and it's an honor for me that you found your w
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=onur-fistikci&hide_rank=true&theme=transparent&line_height=40&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onur-fistikci&hide=php,processing&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
