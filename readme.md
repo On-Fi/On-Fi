@@ -9,9 +9,9 @@ I'm reliable and professional when it comes to deadlines.
 ---
 
 ## Human Languages I Know:
-+ **German**
-+ **English**
-+ **Turkish**
+1. 🇩🇪 **German** 🇩🇪
+2. 🇬🇧 **English** 🇬🇧
+3. 🇹🇷 **Turkish** 🇹🇷
 
 **Funfact:**
 _Onur means **Honor** in turkish, and it's an honor for me that you found your way to my Github._ :)
