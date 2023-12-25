@@ -8,13 +8,13 @@ I'm easy going and like to joke around with punchlines, <br>
 I'm reliable and professional when it comes to deadlines.
 ---
 
-## My Techstack (for now):
+## Programming Languages I Know:
 + **Html**
 + **CSS (styled components)**
 + **JavaScript (React/Next.js)**
 ---
 
-## I'm trilingual (for now):
+## Human Languages I Know:
 + **German**
 + **English**
 + **Turkish**
