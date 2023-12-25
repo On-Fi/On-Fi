@@ -8,12 +8,6 @@ I'm easy going and like to joke around with punchlines, <br>
 I'm reliable and professional when it comes to deadlines.
 ---
 
-## Programming Languages I Know:
-+ **Html**
-+ **CSS (styled components)**
-+ **JavaScript (React/Next.js)**
----
-
 ## Human Languages I Know:
 + **German**
 + **English**
@@ -21,6 +15,13 @@ I'm reliable and professional when it comes to deadlines.
 
 **Funfact:**
 _Onur means **Honor** in turkish, and it's an honor for me that you found your way to my Github._ :)
+
+---
+
+## Programming Languages I Know:
++ **Html**
++ **CSS (styled components)**
++ **JavaScript (React/Next.js)**
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onur-fistikci&layout=donut&theme=transparent)](https://www.youtube.com/watch?v=ZZ5LpwO-An4)  <br>
