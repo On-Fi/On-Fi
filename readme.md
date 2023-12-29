@@ -14,7 +14,7 @@ I'm reliable and professional when it comes to deadlines.
 
 **Funfact:**
 _My name **Onur** means **Honor** in turkish, <br>
-and it's an honor for me that you found your way to my [Github](https://github.com/onur-fistikci?tab=repositories)!_ :]
+and it's an honor for me that you found your way to my [Github](https://github.com/onur-fistikci?tab=repositories)._ :]
 
 ---
 
