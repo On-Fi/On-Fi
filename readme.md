@@ -24,7 +24,7 @@ and it's an honor for me that you found your way to my [Github](https://github.c
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=onur-fistikci&hide=issues&hide_rank=true&theme=transparent&line_height=34&show_icons=true&custom_title=My-GitHub-Stats)](https://www.youtube.com/watch?v=8kUiL_-NHsQ)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onur-fistikci&layout=donut&theme=transparent&custom_title=My-Most-Used-Languages)](https://www.youtube.com/watch?v=f9v4AL3SquY) 
-### Click on my Stats and/or Donut Chart if you dare!
+### Click on my Stats and/or the Donut Chart if you dare!
 
 
 
