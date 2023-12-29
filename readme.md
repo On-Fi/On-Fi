@@ -6,7 +6,6 @@ I'm easy going and like to joke around with punchlines, <br>
 **but** <br>
 I'm reliable and professional when it comes to deadlines.
 ---
-
 ## Human Languages I use:
 1. 🇩🇪 **German** 🇩🇪
 2. 🇬🇧 **English** 🇬🇧
@@ -16,7 +15,6 @@ I'm reliable and professional when it comes to deadlines.
 _My name **Onur** is turkish and means **Honor** in english, 
 <br>
 and it's an honor for me that you found your way to my [Github](https://github.com/onur-fistikci?tab=repositories)._ :]
-
 ---
 
 ## Programming Languages (and Tools) I use:
