@@ -25,8 +25,7 @@ and it's an honor for me that you found your way to my [Github](https://github.c
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onur-fistikci&layout=donut&theme=transparent)](https://www.youtube.com/watch?v=f9v4AL3SquY)  <br>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=onur-fistikci&hide_rank=true&theme=transparent&line_height=30&show_icons=true)](https://www.youtube.com/watch?v=8kUiL_-NHsQ)
-## Click on my Stats if you dare!
-(and want to laugh)
+### Click on my Stats if you dare! (and want to laugh)
 
 
 
