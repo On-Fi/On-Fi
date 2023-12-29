@@ -19,6 +19,7 @@ _My name **Onur** means **Honor** in turkish, and it's an honor for me that you 
 ---
 
 ## Programming Languages and Tools I use:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 + **JavaScript (React/Next.js)**
 + **CSS (styled components)**
 + **Html**
