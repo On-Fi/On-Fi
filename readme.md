@@ -12,8 +12,9 @@ I'm reliable and professional when it comes to deadlines.
 2. 🇬🇧 **English** 🇬🇧
 3. 🇹🇷 **Turkish** 🇹🇷
 
-**Funfact:**
-_My name **Onur** means **Honor** in turkish, <br>
+**Funfact:** 
+_My name **Onur** means **Honor** in turkish, 
+<br>
 and it's an honor for me that you found your way to my [Github](https://github.com/onur-fistikci?tab=repositories)._ :]
 
 ---
