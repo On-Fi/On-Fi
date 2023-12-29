@@ -7,11 +7,9 @@ I'm easy going and like to joke around with punchlines, <br>
 I'm reliable and professional when it comes to deadlines.
 ---
 ## Human Languages I use:
-
- <strong> 1. 🇩🇪 **German** 🇩🇪 </strong> <br>
- <strong> 2. 🇬🇧 **English** 🇬🇧 </strong> <br>
- <strong> 3. 🇹🇷 **Turkish** 🇹🇷 </strong>
- 
+<strong> 1. 🇩🇪 **German** 🇩🇪 </strong> <br>
+<strong> 2. 🇬🇧 **English** 🇬🇧 </strong> <br>
+<strong> 3. 🇹🇷 **Turkish** 🇹🇷 </strong> <br> <br>
 **Funfact:** 
 _My name **Onur** is turkish and means **Honor** in english, 
 <br>
