@@ -24,8 +24,8 @@ and it's an honor for me that you found your way to my [Github](https://github.c
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onur-fistikci&layout=donut&theme=transparent)](https://www.youtube.com/watch?v=f9v4AL3SquY)  <br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=onur-fistikci&hide=issues&hide_rank=true&theme=transparent&line_height=30&show_icons=true)](https://www.youtube.com/watch?v=8kUiL_-NHsQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onur-fistikci&layout=donut&theme=transparent)](https://www.youtube.com/watch?v=f9v4AL3SquY) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=onur-fistikci&hide=issues&hide_rank=true&theme=transparent&line_height=34&show_icons=true)](https://www.youtube.com/watch?v=8kUiL_-NHsQ)
 ### Click on my Stats if you dare!
 
 
