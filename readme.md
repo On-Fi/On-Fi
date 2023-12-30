@@ -1,7 +1,7 @@
 ---
 # ONUR is my Name, and WEB DEV is the Game!
 ---
-I like to travel around the World while listing to german/turkish and english Rap <br> and meet new people in the World Wide Web. <br> 
+I like to travel around the World while listing to 🇩🇪,🇹🇷 and 🇬🇧 Rap <br> and meet new people in the World Wide Web. <br> 
 I'm easy going and like to joke around with punchlines, <br> 
 **but** <br>
 I'm reliable and professional when it comes to deadlines.
