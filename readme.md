@@ -28,7 +28,6 @@ and it's an honor for me that you found your way to my [Github](https://github.c
 ---
 
 ## Random Dev Meme
-<img src='https://codermemes.vercel.app/' style="height: 400px;"/>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
